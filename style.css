@@ -2,7 +2,14 @@
     background-color: #006CFA;
     color: #fff;
     text-align: center;
-    height: 40px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.content-col .row .nested-col {
+    background-color: #00E165;
+    color: #fff;
+    text-align: center;
     padding: 10px;
     margin: 2px;
 }
